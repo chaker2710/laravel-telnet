@@ -1,5 +1,5 @@
 {
-    "name": "borisuu/laravel-telnet",
+    "name": "chaker2710/laravel-telnet",
     "description": "A client for writing/reading commands to a host over telnet.",
     "type": "library",
     "license": "LGPL-3.0-only",
